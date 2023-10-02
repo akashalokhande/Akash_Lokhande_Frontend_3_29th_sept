@@ -10,8 +10,8 @@
 }
 
 .card-1 {
-  height: 40px;
-  width: 250px;
+  height: 54px;
+  width: 300px;
   background-color: rgba(0, 128, 0, 0.783);
   display: flex;
   justify-content: center;
@@ -31,8 +31,8 @@
 }
 
 .cards {
-  height: 100px;
-  width: 240px;
+  height: 150px;
+  width: 23rem;
   background-color: rgba(238, 130, 238, 0.846);
   display: flex;
   justify-content: center;
